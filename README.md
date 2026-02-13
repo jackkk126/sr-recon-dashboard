@@ -34,3 +34,7 @@ Clone repository:
 ```bash
 git clone https://github.com/jackkk126/sr-recon-dashboard.git
 cd sr-recon-dashboard
+pip3 install flask requests \ for windows pip install flask requests
+for kali python3 app.py \ for windows python app.py 
+http://127.0.0.1:5000
+
